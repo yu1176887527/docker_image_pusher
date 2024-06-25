@@ -16,3 +16,6 @@ openjdk
 logstash
 java
 xuxueli/xxl-job-admin:2.4.0
+portainer/portainer-ce
+dpage/pgadmin4
+gitlab/gitlab-ce
