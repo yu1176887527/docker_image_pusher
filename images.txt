@@ -1,10 +1,7 @@
-java
 portainer/portainer-ce
 dpage/pgadmin4
 gitlab/gitlab-ce
 portainer/portainer-ce
-dpage/pgadmin4
-gitlab/gitlab-ce
 langgenius/dify-api:0.6.11
 langgenius/dify-web:0.6.11
 postgres:15-alpine
@@ -12,4 +9,10 @@ redis:6-alpine
 semitechnologies/weaviate:1.19.0
 langgenius/dify-sandbox:0.2.1
 ubuntu/squid:latest
-oracle
+elasticsearch:8.5
+elasticsearch:6.4.0
+kibana:8.5
+kibana:6.4.0
+registry.cn-hangzhou.aliyuncs.com/helowin/oracle_11g
+logstash:6.4.0
+logstash:8.5
