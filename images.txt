@@ -1,3 +1,1 @@
-tomcat:8.5
-nacos/nacos-server:v2.2.1-slim
-rabbitmq:management
+alibabadragonwell/dragonwell:17-anolis
