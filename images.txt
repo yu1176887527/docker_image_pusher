@@ -1,1 +1,6 @@
-alibabadragonwell/dragonwell:17-anolis
+postgres:14.10
+ubuntu
+centos:centos7
+centos:centos8
+debian
+nextcloud
