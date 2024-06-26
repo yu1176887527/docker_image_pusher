@@ -1,6 +1,1 @@
-postgres:14.10
-ubuntu
-centos:centos7
-centos:centos8
-debian
-nextcloud
+onlyoffice/documentserver
