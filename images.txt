@@ -1,2 +1,11 @@
-logstash:6.4.0
-logstash:8.5
+logstash:8.5.0
+elasticsearch:7.5.0
+mobz/elasticsearch-head:5
+redislabs/redisinsight:latest
+minio/minio:RELEASE.2021-04-22T15-44-28Z
+elasticsearch:8.5.3
+kibana:8.5.3
+java:1.8.0
+tomcat:8.5
+nacos/nacos-server:v2.2.1-slim
+rabbitmq:management
