@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:main
+qwenllm/qwenvl:2-cu121
