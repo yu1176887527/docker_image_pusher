@@ -1,1 +1,1 @@
-registry.baidubce.com/paddlepaddle/paddle:2.3.2-gpu-cuda11.2-cudnn8
+frost1123/onlyoffice:7.3.3.40
