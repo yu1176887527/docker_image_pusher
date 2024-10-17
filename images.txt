@@ -1,2 +1,1 @@
-mariadb:10.5
-nextcloud
+xbeeant/oo-unlimit:8.0.1.1
