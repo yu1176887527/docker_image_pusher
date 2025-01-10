@@ -1,1 +1,11 @@
-binjie09/duckduckgo-api
+langgenius/dify-api:1.0.0-beta.1
+langgenius/dify-web:1.0.0-beta.1
+postgres:15-alpine
+redis:6-alpine
+langgenius/dify-sandbox:0.2.10
+langgenius/dify-plugin-daemon:0.0.1-local
+ubuntu/squid:latest
+certbot/certbot
+nginx:latest
+semitechnologies/weaviate:1.19.0
+pgvector/pgvector:pg16
