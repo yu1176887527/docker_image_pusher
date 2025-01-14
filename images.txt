@@ -1,2 +1,1 @@
-langgenius/dify-api:0.15.0
-langgenius/dify-web:0.15.0
+ghcr.io/thomisus/onlyoffice-documentserver-unlimited:8.1.3
