@@ -3,11 +3,11 @@
 --platform linux/arm64 helsonxiao/dm:8-arm64
 --platform linux/arm64 postgres:14.10
 --platform linux/arm64 redis:latest
---platform redislabs/redisinsight:latest
---platform rabbitmq:management
---platform minio/minio:RELEASE.2021-04-22T15-44-28Z
---platform elasticsearch:8.5.3
---platform kibana:8.5.3
---platform ghcr.io/thomisus/onlyoffice-documentserver-unlimited:8.1.3
---platform nginx:latest
---platform alibabadragonwell/dragonwell:17-anolis
+--platform linux/arm64 redislabs/redisinsight:latest
+--platform linux/arm64 rabbitmq:management
+--platform linux/arm64 minio/minio:RELEASE.2021-04-22T15-44-28Z
+--platform linux/arm64 elasticsearch:8.5.3
+--platform linux/arm64 kibana:8.5.3
+--platform linux/arm64 ghcr.io/thomisus/onlyoffice-documentserver-unlimited:8.1.3
+--platform linux/arm64 nginx:latest
+--platform linux/arm64 alibabadragonwell/dragonwell:17-anolis
