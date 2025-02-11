@@ -1,2 +1,1 @@
-
-moby/buildkit:buildx-stable-1
+moby/buildkit:buildx-stable-1@sha256:273b61ca4f538c120c8555b4e7c59e903bd5bdfc72d93439e75f46fcf1f4e135
