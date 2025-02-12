@@ -1,13 +1,1 @@
---platform linux/arm64 portainer/portainer-ce:latest
---platform linux/arm64 nacos/nacos-server:v2.2.1-slim
---platform linux/arm64 helsonxiao/dm:8-arm64
---platform linux/arm64 postgres:14.10
---platform linux/arm64 redis:latest
---platform linux/arm64 redislabs/redisinsight:latest
---platform linux/arm64 rabbitmq:management
---platform linux/arm64 minio/minio:RELEASE.2021-04-22T15-44-28Z
---platform linux/arm64 elasticsearch:8.5.3
---platform linux/arm64 kibana:8.5.3
---platform linux/arm64 onlyoffice/documentserver:latest
---platform linux/arm64 nginx:latest
---platform linux/arm64 alibabadragonwell/dragonwell:17-anolis
+--platform linux/arm64 portainer/portainer-ce:2.11.1-alpine
