@@ -1,1 +1,1 @@
---platform redislabs/redisinsight:1.11.1
+--platform linux/arm64 redislabs/redisinsight:1.11.1
