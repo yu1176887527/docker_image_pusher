@@ -1,1 +1,1 @@
---platform linux/arm64 portainer/portainer-ce:2.11.1-alpine
+--platform redislabs/redisinsight:1.11.1
