@@ -1,1 +1,2 @@
---platform linux/arm64 redislabs/redisinsight:2.14.0
+wurstmeister/zookeeper
+wurstmeister/kafka
