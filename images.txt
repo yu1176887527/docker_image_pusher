@@ -1,3 +1,3 @@
 #--platform linux/arm64
-tomcat:8.5-jdk8
---platform linux/arm64 tomcat:8.5-jdk8
+registry.cn-hangzhou.aliyuncs.com/helowin/oracle_11g
+--platform linux/arm64 registry.cn-hangzhou.aliyuncs.com/helowin/oracle_11g
