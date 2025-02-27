@@ -1,2 +1,2 @@
 #--platform linux/arm64
-vllm/vllm-openai
+vllm/vllm-openai:0.7.2
