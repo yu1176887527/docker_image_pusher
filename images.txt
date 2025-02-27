@@ -1,3 +1,2 @@
 #--platform linux/arm64
-akaiot/oracle_11g
---platform linux/arm64 akaiot/oracle_11g
+vllm/vllm-openai
