@@ -1,2 +1,3 @@
 #--platform linux/arm64
-vllm/vllm-openai:0.7.2
+ollama/ollama
+mongo:4.4.29
