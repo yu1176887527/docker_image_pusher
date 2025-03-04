@@ -1,3 +1,2 @@
 #--platform linux/arm64
-ollama/ollama
-mongo:4.4.29
+binarybabel/jdk:8-alpine
