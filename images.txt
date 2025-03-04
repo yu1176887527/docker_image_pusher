@@ -1,2 +1,2 @@
 #--platform linux/arm64
-binarybabel/jdk:8-alpine
+crusaderrocks/oracle-jdk:8
