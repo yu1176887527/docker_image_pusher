@@ -1,2 +1,2 @@
 #--platform linux/arm64
-crusaderrocks/oracle-jdk:8
+shourai/vsftpd-alpine:latest
