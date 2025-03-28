@@ -1,2 +1,2 @@
 #--platform linux/arm64
-shourai/vsftpd-alpine:latest
+qwenllm/qwen-omni:2.5-cu121
