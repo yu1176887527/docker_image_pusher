@@ -1,2 +1,3 @@
 #--platform linux/arm64
-qwenllm/qwen-omni:2.5-cu121
+docker.io/redis:6.2-alpine
+docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
