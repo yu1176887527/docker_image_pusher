@@ -1,2 +1,4 @@
 #--platform linux/arm64
-nextcloud/all-in-one
+cloudreve/cloudreve:latest
+bitnami/redis:latest
+p3terx/aria2-pro
