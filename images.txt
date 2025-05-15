@@ -1,2 +1,3 @@
 #--platform linux/arm64
---platform linux/arm64 registry.cn-hangzhou.aliyuncs.com/fastgpt/fastgpt:v4.9.7
+nextcloud
+redis:7.2-alpine
