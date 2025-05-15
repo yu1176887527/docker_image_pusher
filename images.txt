@@ -1,3 +1,2 @@
 #--platform linux/arm64
-nextcloud
-redis:7.2-alpine
+nextcloud/all-in-one
