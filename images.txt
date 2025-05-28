@@ -1,4 +1,2 @@
 #--platform linux/arm64
-cloudreve/cloudreve:latest
-bitnami/redis:latest
-p3terx/aria2-pro
+xprobe/xinference:latest
