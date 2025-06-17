@@ -1,3 +1,3 @@
 #--platform linux/arm64
-xprobe/xinference:v1.6.1
+--platform linux/arm64 186184848/documentserver:8.3.3
 
