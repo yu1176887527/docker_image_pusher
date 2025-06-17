@@ -1,3 +1,4 @@
 #--platform linux/arm64
---platform linux/arm64 186184848/documentserver:8.3.3
+--platform linux/arm64 moqisoft/documentserver:8.3.3
+moqisoft/documentserver:8.3.3
 
