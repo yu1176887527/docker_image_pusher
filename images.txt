@@ -1,2 +1,2 @@
 #--platform linux/arm64
-mineru-sglang:latest
+lmsysorg/sglang:v0.4.8.post1-cu126
