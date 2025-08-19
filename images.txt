@@ -1,2 +1,2 @@
 #--platform linux/arm64
-lmsysorg/sglang:v0.4.8.post1-cu126
+python:3.10.18
