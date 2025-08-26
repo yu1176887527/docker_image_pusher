@@ -1,2 +1,2 @@
 #--platform linux/arm64
-python:3.10.18
+ghcr.io/playcanvas/editor-test:latest
