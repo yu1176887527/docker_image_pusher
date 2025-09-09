@@ -1,2 +1,2 @@
 #--platform linux/arm64
-ghcr.io/playcanvas/editor-test:latest
+nacos/nacos-server:v2.2.3
