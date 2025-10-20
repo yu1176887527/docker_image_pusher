@@ -1,2 +1,2 @@
 #--platform linux/arm64
-nacos/nacos-server:v2.2.3
+moby/buildkit:buildx-stable-1 --platform linux/arm64
