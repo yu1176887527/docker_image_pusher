@@ -1,2 +1,2 @@
 #--platform linux/arm64
-moby/buildkit:buildx-stable-1 --platform linux/arm64
+registry:2 --platform linux/arm64
