@@ -1,2 +1,2 @@
 #--platform linux/arm64
-qwenllm/qwenvl:qwen3vl-cu128
+ollama/ollama:latest
