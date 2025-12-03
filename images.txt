@@ -1,2 +1,2 @@
 #--platform linux/arm64
-pytorch/pytorch:2.9.0-cuda12.6-cudnn9-devel
+qwenllm/qwenvl:qwen3vl-cu128
