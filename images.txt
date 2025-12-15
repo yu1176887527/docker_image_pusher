@@ -1,2 +1,2 @@
 #--platform linux/arm64
-ollama/ollama:latest
+ollama/ollama:0.13.3
