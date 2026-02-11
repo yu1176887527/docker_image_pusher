@@ -1,2 +1,2 @@
 #--platform linux/arm64
-xprobe/xinference:v2.0.0
+xprobe/xinference:v1.17.1
