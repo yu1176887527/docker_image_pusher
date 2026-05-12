@@ -1,2 +1,2 @@
 #--platform linux/arm64
-vllm/vllm-openai:v0.15.1
+postgres:17.6
