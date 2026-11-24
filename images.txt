@@ -1,2 +1,2 @@
 #--platform linux/arm64
-mumujie/mumuainovel:latest
+postgres:18-alpine
