@@ -1,3 +1,2 @@
 #--platform linux/arm64
-vllm/vllm-openai:latest
-ghcr.io/open-webui/open-webui:main
+mumujie/mumuainovel:latest
